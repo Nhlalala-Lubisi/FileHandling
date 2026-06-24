@@ -154,5 +154,5 @@ Chars  : 249
 
 ## Author
 
-**Nhlalala** — Advanced Diploma in Information Technology (NQF Level 7)  
+**Nhlalala** - Advanced Diploma in Information Technology (NQF Level 7)  
 Vaal University of Technology · 2026
