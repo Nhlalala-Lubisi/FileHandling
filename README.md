@@ -1,4 +1,4 @@
-# FileHandling — Java File I/O (Level 2 Intermediate)
+# FileHandling
 
 A Maven-based Java 21 program that reads a text file, processes its content (word count, line count, character count), writes the results to an output file, and handles file-related exceptions.
 
