@@ -10,8 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * FileProcessor reads a text file, processes its content,
- * and writes statistics (word count, line count, char count) to an output file.
+ * FileProcessor reads a text file, processes its content, and writes statistics (word count, line count, char count) to an output file.
  */
 public class FileProcessor {
 
