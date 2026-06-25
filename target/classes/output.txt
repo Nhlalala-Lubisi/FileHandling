@@ -1,0 +1,5 @@
+===== File Processing Results =====
+Lines  : 6
+Words  : 58
+Chars  : 342
+===================================

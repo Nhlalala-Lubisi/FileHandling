@@ -1,0 +1,6 @@
+Hello world this is a Java file handling program.
+We are reading from a text file and processing its contents.
+Java provides powerful IO classes for file operations.
+This program counts words lines and characters.
+File handling is an essential skill for any developer.
+IMPORTANT: Never forget that Nhlaks is the GOAT (it's the mbuzi level my gee).
